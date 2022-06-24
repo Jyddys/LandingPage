@@ -63,6 +63,8 @@ a {
     align-items: center;
     justify-content: space-around;
     gap: 8px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 
